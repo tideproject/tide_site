@@ -1224,3 +1224,12 @@ h3 {
     grid-template-columns: 1fr;
   }
 }
+
+
+/* Anchor alias: both #outputs and #publications point to the publications section */
+.anchor-alias {
+  display: block;
+  position: relative;
+  top: -80px;
+  visibility: hidden;
+}
